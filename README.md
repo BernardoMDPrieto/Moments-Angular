@@ -10,10 +10,10 @@
     Você pode tanto baixar o projeto em um arquivo zip na sua máquina, quanto pelo comando <code>git clone</code>;
   </li>
   <li>
-    Assim que o projeto estiver instalado na sua máquina é preciso instalar as dependências do node, isso pode ser feito utilizando o comando npm install na pasta do projeto
+    Assim que o projeto estiver instalado na sua máquina é preciso instalar as dependências do node, isso pode ser feito utilizando o comando <code>npm install</code> na pasta do projeto
   </li>
   <li>
-    Em seguida, para rodar o projeto por completo você pode utilizar o backend desenvolvido em adonisJs do Matheus Battisti: Link do vídeo para instalar o backend e suas dependências na sua máquina: <a href="https://youtu.be/xTCBaGeYTck?si=Eyfzf21Iy-g_hM3e">Curso Angular 13: Setup da API </a>
+    Em seguida, para rodar o projeto por completo você pode utilizar o backend desenvolvido em adonisJs <a href="https://github.com/matheusbattisti/curso_adonis_api_yt"> repositório </a>do Matheus Battisti: Link do vídeo para instalar o backend e suas dependências na sua máquina: <a href="https://youtu.be/xTCBaGeYTck?si=Eyfzf21Iy-g_hM3e">Curso Angular 13: Setup da API </a>
   </li>
 </ol>
 
